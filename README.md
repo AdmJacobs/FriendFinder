@@ -7,5 +7,5 @@ History: Numerous heroku app deployment errrors. H10 most common error.
 Hat tip to: Stackoverflow, heroku doc pages, various Youtube videos and numerous other online resources.
 
 Functionality:
-Deployed through Heroku: https://dashboard.heroku.com/apps/peaceful-peak-48367/settings
+Deployed through Heroku: https://peaceful-peak-48367.herokuapp.com/
 
